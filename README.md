@@ -1,4 +1,4 @@
-# Lab8 Lab 8: Transactions and permissions
+# Lab8: Transactions and permissions
 Course: SQL Server Database Development (ITE-5223)
 Database: AdventureWorks2019
 Schema Used: IoT
